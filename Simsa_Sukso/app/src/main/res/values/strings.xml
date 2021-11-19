@@ -1,0 +1,47 @@
+<resources>
+    <!--bottom navigation-->
+    <string name="app_name">심사숙소</string>
+    <string name="home">홈</string>
+    <string name="search">검색</string>
+    <string name="upload">업로드</string>
+    <string name="heart">찜목록</string>
+    <string name="user">설정</string>
+
+    <!--login-->
+    <string name="login_main_title">안녕하세요\n심사숙소입니다 :)</string>
+    <string name="login_main_text">심사숙소로 숙소 후기를 한 번에 확인해보세요.</string>
+    <string name="login_main_register">쉽고 빠른 회원가입!</string>
+
+    <string name="register_main">심사숙소에서 사용할 닉네임을 정해주세요.</string>
+    <string name="register_semi">영문 / 숫자 포함 8자 이내, 확인 후 변경 불가</string>
+    <string name="register_edit_text">닉네임을 입력해주세요.</string>
+    <string name="kakao_app_key">b9157f39fdb90c6cb12ae52ec6658951</string>
+
+    <string name="already_used">다른 분이 사용하고 있는 닉네임이에요.</string>
+
+    <!--setting-->
+    <string name="setting_title">설정</string>
+    <string name="my_feed">내 피드보기</string>
+    <string name="alert">알림 설정</string>
+    <string name="change_profile">프로필 사진 변경</string>
+    <string name="logout">로그아웃</string>
+    <string name="delete_account">회원탈퇴</string>
+
+    <string name="finish">완료</string>
+    <string name="push_alert">푸시 알림</string>
+    <string name="stop_all_alert">모든 알림 일시 중단</string>
+    <string name="my_alert">내 게시물 댓글 알림</string>
+
+    <string name="alert_out">나가기</string>
+    <string name="alert_out_main">변경사항이 저장되지 않았습니다.\n나가시겠습니까?</string>
+
+    <string name="YES">네</string>
+    <string name="NO">아니요</string>
+
+    <string name="nick_name">닉네임</string>
+    <string name="account">연동 계정</string>
+
+    <style name="MyItemFont" parent="android:Widget.TextView">
+        <item name="android:textSize">12sp</item>
+    </style>
+</resources>

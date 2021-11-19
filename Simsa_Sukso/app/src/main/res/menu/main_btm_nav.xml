@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+            android:id="@+id/main_home"
+            android:enabled="true"
+            android:icon="@drawable/main_ic_home_alt"
+            android:title="@string/home"
+            android:titleCondensed="15sp"
+            app:showAsAction="always"/>
+    <item
+            android:id="@+id/main_search"
+            android:enabled="true"
+            android:icon="@drawable/main_ic_search"
+            android:title="@string/search"
+            android:titleCondensed="15sp"
+            app:showAsAction="always"/>
+    <item
+            android:id="@+id/main_upload"
+            android:enabled="true"
+            android:icon="@drawable/main_ic_plus_circle"
+            android:title="@string/upload"
+            android:titleCondensed="15sp"
+            app:showAsAction="always"/>
+    <item
+            android:id="@+id/main_heart"
+            android:enabled="true"
+            android:icon="@drawable/main_ic_heart"
+            android:title="@string/heart"
+            android:titleCondensed="15sp"
+            app:showAsAction="always"/>
+    <item
+            android:id="@+id/main_setting"
+            android:enabled="true"
+            android:icon="@drawable/main_ic_user"
+            android:title="@string/user"
+            android:titleCondensed="15sp"
+            app:showAsAction="always"/>
+
+</menu>
